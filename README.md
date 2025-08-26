@@ -16,7 +16,7 @@
    
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -64,7 +64,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
 
-And many more, including enhanced security and optimized video performance!
 
 
 **Advance your skills with our GSAP Pro Course!**
