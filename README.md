@@ -48,29 +48,4 @@ If you're getting started and need assistance or face any bugs, join our active 
 - **[Vite](https://vitejs.dev/)** is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
 
 
-## <a name="features">🔋 Features</a>
 
-👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
-
-👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger.
-
-👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll.
-
-👉 **Pinned Sections**: Lock sections in view while animating content for engaging scroll experiences.
-
-👉 **Scroll-Synced Video Playback**: Sync video progress with scroll position for cinematic storytelling.
-
-👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections.
-
-👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
-
-
-
-**Advance your skills with our GSAP Pro Course!**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.com" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
